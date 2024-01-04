@@ -1,7 +1,7 @@
 import { Layout, Space, Typography } from "antd";
 import style from "./style.module.css";
 import { LoginOutlined, TeamOutlined, UserOutlined } from "@ant-design/icons";
-import CustomButtom from "../custom-buttom";
+import CustomButtom from "../custom-button";
 import { Link } from "react-router-dom";
 import { Paths } from "../../paths";
 
